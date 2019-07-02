@@ -1,0 +1,27 @@
+{
+  "name": "@zooey1184/upload_to_oss",
+  "version": "1.0.0",
+  "description": "upload oss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zooey1184/upload.git"
+  },
+  "keywords": [
+    "upload",
+    "oss"
+  ],
+  "author": "张应颖 <1184762165@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zooey1184/upload/issues"
+  },
+  "homepage": "https://github.com/zooey1184/upload#readme",
+  "dependencies": {
+    "ali-oss": "^6.1.1",
+    "chalk": "^2.4.2"
+  }
+}
