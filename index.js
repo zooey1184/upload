@@ -1,7 +1,7 @@
 const fs = require('fs')
 const OSS = require('ali-oss')
 const chalk = require('chalk')
-// const path = require('path')
+const path = require('path')
 /**
  * 自动上传oss
  * config: oss 配置项 = 》 {

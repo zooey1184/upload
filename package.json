@@ -1,6 +1,6 @@
 {
   "name": "@zooey1184/upload_to_oss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "upload oss",
   "main": "index.js",
   "scripts": {
